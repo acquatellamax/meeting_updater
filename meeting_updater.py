@@ -27,10 +27,10 @@ payload_schedule = json.dumps({
     "end": "2021-07-30T21:20:00Z",
     "invitees": [
         {
-            "email": "admin2@macquate2.webexsandbox.co"
+            "email": ""
         },
         {
-            "email": "acquatellamax@gmail.com",
+            "email": "",
         }
     ],
     "sendEmail": True,
